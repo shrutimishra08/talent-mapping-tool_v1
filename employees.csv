@@ -1,0 +1,51 @@
+Employee_ID,Conscientiousness,Adaptability,Collaboration,Sales_Revenue,Project_Success_Rate,Role,Department,Aspiration
+1,85,80,90,100000,95,Sales Rep,Sales,Manager
+2,70,85,75,80000,85,Engineer,IT,Tech Lead
+3,90,75,80,120000,90,Manager,Leadership,Director
+4,65,70,85,75000,80,Analyst,Analytics,Senior Analyst
+5,88,82,87,110000,92,Sales Rep,Sales,Manager
+6,78,88,70,90000,88,Engineer,IT,Tech Lead
+7,92,78,85,130000,94,Manager,Leadership,Director
+8,60,65,80,70000,75,Analyst,Analytics,Senior Analyst
+9,87,84,89,105000,93,Sales Rep,Sales,Manager
+10,72,90,72,82000,87,Engineer,IT,Tech Lead
+11,89,76,83,125000,91,Manager,Leadership,Director
+12,68,68,78,72000,78,Analyst,Analytics,Senior Analyst
+13,84,81,91,102000,94,Sales Rep,Sales,Manager
+14,75,87,74,85000,86,Engineer,IT,Tech Lead
+15,91,79,86,128000,93,Manager,Leadership,Director
+16,62,66,82,71000,76,Analyst,Analytics,Senior Analyst
+17,86,83,88,108000,95,Sales Rep,Sales,Manager
+18,71,89,71,83000,88,Engineer,IT,Tech Lead
+19,93,77,84,132000,92,Manager,Leadership,Director
+20,64,69,79,73000,77,Analyst,Analytics,Senior Analyst
+21,83,80,90,101000,93,Sales Rep,Sales,Manager
+22,76,86,73,86000,87,Engineer,IT,Tech Lead
+23,90,78,85,127000,94,Manager,Leadership,Director
+24,61,67,81,70000,75,Analyst,Analytics,Senior Analyst
+25,85,82,89,106000,92,Sales Rep,Sales,Manager
+26,73,88,72,84000,89,Engineer,IT,Tech Lead
+27,92,76,83,129000,91,Manager,Leadership,Director
+28,66,65,80,72000,78,Analyst,Analytics,Senior Analyst
+29,84,84,91,103000,94,Sales Rep,Sales,Manager
+30,74,90,74,87000,86,Engineer,IT,Tech Lead
+31,89,79,86,126000,93,Manager,Leadership,Director
+32,63,68,82,71000,76,Analyst,Analytics,Senior Analyst
+33,87,81,88,109000,95,Sales Rep,Sales,Manager
+34,72,87,71,85000,88,Engineer,IT,Tech Lead
+35,91,77,84,131000,92,Manager,Leadership,Director
+36,65,66,79,73000,77,Analyst,Analytics,Senior Analyst
+37,86,83,90,104000,93,Sales Rep,Sales,Manager
+38,75,89,73,86000,89,Engineer,IT,Tech Lead
+39,90,78,85,128000,94,Manager,Leadership,Director
+40,62,67,81,70000,75,Analyst,Analytics,Senior Analyst
+41,85,82,89,107000,92,Sales Rep,Sales,Manager
+42,74,88,72,84000,87,Engineer,IT,Tech Lead
+43,93,76,83,130000,91,Manager,Leadership,Director
+44,64,65,80,72000,78,Analyst,Analytics,Senior Analyst
+45,84,84,91,102000,94,Sales Rep,Sales,Manager
+46,73,90,74,87000,86,Engineer,IT,Tech Lead
+47,92,79,86,127000,93,Manager,Leadership,Director
+48,61,68,82,71000,76,Analyst,Analytics,Senior Analyst
+49,87,81,88,108000,95,Sales Rep,Sales,Manager
+50,76,87,71,85000,88,Engineer,IT,Tech Lead
